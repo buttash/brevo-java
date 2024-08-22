@@ -37,8 +37,8 @@
         <developer>
             <name>Brevo</name>
             <email>developers@brevo.com</email>
-            <organization>Swagger</organization>
-            <organizationUrl>http://swagger.io</organizationUrl>
+            <organization>Brevo</organization>
+            <organizationUrl>http://www.brevo.com</organizationUrl>
         </developer>
     </developers>
 
