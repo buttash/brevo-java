@@ -7,7 +7,7 @@
     <name>brevo</name>
     <version>1.0.0</version>
     <url>https://github.com/getbrevo/brevo-java</url>
-    <description>Brevo’s API v3 Java Library</description>
+    <description>Brevo&#39;s API v3 Java Library</description>
     <scm>
         <connection>scm:git@github.com:getbrevo/brevo-java.git</connection>
         <developerConnection>scm:git:git@github.com:getbrevo/brevo-java.git</developerConnection>
@@ -28,7 +28,7 @@
             <url>https://oss.sonatype.org/content/repositories/snapshots</url>
         </snapshotRepository>
         <repository>
-            <id>sendinblue</id>
+            <id>brevo</id>
             <url>https://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
         </repository>
     </distributionManagement>
